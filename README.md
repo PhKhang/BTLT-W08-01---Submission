@@ -18,6 +18,9 @@ The main file is `src/main/java/presentation/Main.java`. When open with `YeuCau1
 On `Main.java` open, click `Run current file` on Intellij IDEA or right click and hit `Run Java` in VSCode. The program's window will pop up.
 
 #### From runnable JAR file
+
+The jar file is available here because its size is 20.3MB and I do not have the knowledge nor time to reduce the size further😔: [GitHub](https://github.com/PhKhang/BTLT-W08-01---Submission/releases/tag/0.0.1)
+
 Open the directory containing the `.jar` file with Intellij IDEA. Right click and hit `Run ... .jar` option. The program's window will pop up.
 
 Or in the command line in a directory with the `.jar` file:
